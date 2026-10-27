@@ -1,0 +1,85 @@
+{
+  "code": "UC",
+  "title": "SMASH UC",
+  "school": "울산과학대",
+  "fullName": "울산과학대학교",
+  "campusName": "울산과학대학교 동부캠퍼스",
+  "tagline": "울산과학대를 부셔 (시험기간 스트레스 해소)",
+  "description": "울산과학대학교 동부캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 울산과학대학교 동부캠퍼스 3D 화면과 SMASH UC 제목",
+  "url": "https://hong-iron.github.io/SMASH-UC/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 475073544
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/475073531",
+      "n": "현대중공업인재개발원(Hyundai Heavy Industries Training Center)",
+      "why": "학교 건물 아님 — 이름이 현대중공업 인재개발원인 회사 연수 시설이고, 학교 공식 건물 목록에 없다."
+    },
+    {
+      "id": "way/475073530",
+      "n": "썰매장",
+      "why": "항공사진에 없음 — 골프연습장 그물 아래 잔디 타격장이라 지붕이 있는 건물이 서 있지 않다."
+    },
+    {
+      "at": [
+        35.4987549,
+        129.4159287
+      ],
+      "n": "13동",
+      "why": "항공사진에 없음 — 사진에는 주차장과 세워 둔 차만 있고 건물이 없다."
+    },
+    {
+      "at": [
+        35.498206,
+        129.4173354
+      ],
+      "n": "다매체정보센터동",
+      "why": "같은 건물 겹침 — 8번 도서관(다매체정보센터동)과 이름, 층수, 사용승인일이 같은 기록이 정문 옆 하천 땅에 잘못 찍힌 중복이다."
+    }
+  ],
+  "look": {
+    "울산과학대학도서관": {
+      "style": "stone",
+      "wall": "#d8d6d0",
+      "glass": "#42636f",
+      "frame": "#34444a"
+    },
+    "제2대학관(Building 2)": {
+      "style": "stone",
+      "wall": "#e6e6e8",
+      "glass": "#456674",
+      "frame": "#c9cdd3"
+    },
+    "제3대학관(Building 3)": {
+      "style": "stone",
+      "wall": "#ece6de",
+      "glass": "#56706f",
+      "frame": "#a8aaa6"
+    },
+    "청운체육관": {
+      "style": "ribbon",
+      "wall": "#ebe8e5",
+      "glass": "#3d5a58",
+      "frame": "#a9b0b0"
+    },
+    "아산체육관-아이스링크": {
+      "style": "ribbon",
+      "wall": "#efe6d2",
+      "glass": "#6a8684",
+      "frame": "#c8c2b0"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
