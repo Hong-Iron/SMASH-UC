@@ -1,0 +1,34 @@
+{
+ "region": "울산 동구 화정동",
+ "nameEn": "Ulsan College East Campus",
+ "added": "2026-10-27T21:00",
+ "rank": 266,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "UOU",
+   "campus": "울산대학교",
+   "km": 15.5
+  },
+  {
+   "code": "CHOONHAE",
+   "campus": "춘해보건대학교",
+   "km": 20.2
+  },
+  {
+   "code": "UNIST",
+   "campus": "울산과학기술원",
+   "km": 22.1
+  },
+  {
+   "code": "YOUNGSAN",
+   "campus": "영산대학교 양산캠퍼스",
+   "km": 25.5
+  },
+  {
+   "code": "DIST",
+   "campus": "동원과학기술대학교",
+   "km": 35.9
+  }
+ ]
+}
